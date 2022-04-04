@@ -1,64 +1,45 @@
-# Awesome Research Software Engineering Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Research Software Engineering Policies and Guidelines [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated awesome list of Research Software Engineering (RSE) Science. Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
+> A curated awesome list of Research Software Engineering (RSE) policies and guidelines. Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
 
 
 ## Contents
-- [RSE Scientific Working Groups](#rse-scientific-working-groups)
-- [RSE Research Projects](#rse-research-projects)
-- [RSE Conferences](#rse-conferences)
-  - [2022](#2022)
-  - [2021](#2021)
-  - [2020](#2020)
-  - [2019](#2019)
-  - [2018](#2018)
-  - [2017](#2017)
-- [RSE Literature](#rse-literature)
+- [RSE policies](#rse-policies)
+- [RSE guidelines](#rse-guidelines)
+- [Recommendations and HowTos for RSE policies and guidelines](#recommendations-and-howtos-for-rse-policies-and-guidelines)
 
-## RSE Scientific Working Groups
-Scientific working groups that are built for dealing with RSE topics (not only research software) in alphabetical order.
-- [NAME](LINK): Short description of working group
+## RSE policies
+Collection of RSE policies, which are abstract and often formal rules for research software engineering.
 
-## RSE Research Projects
-Research projects that deal with RSE topics (not only research software) in alphabetical order.
-- [Project Hermes](http://software-metadata.pub/): Developing automated workflows for metadata rich research software publications.
+- [Caltech Copyright and Software Policy](https://innovation.caltech.edu/patents-licensing/policies/caltech-copyright-and-software-policy)
+- [TU Delft Research Software Policy](https://doi.org/10.5281/zenodo.4629661)
 
-## RSE Conferences
-RSE Conferences sorted by year descending.
+## RSE guidelines
+Collection of RSE guidelines containing recommendations and best practices for research software engineering in specific situations.
 
-### 2022
-- [RSECon22](https://rsecon2022.society-rse.org/)
-- [RSE Workshops @ GI SE2022](https://se-2022.gi.de/rse22workshops)
+- [Guide and checklists of the DLR Software Engineering Initiative](https://rse.dlr.de/01_guidelines.html)
+- [Guides and checklists of the Software Sustainability Institute](https://www.software.ac.uk/guides)
+- [Guides and checklists of the Netherlands eScience Center](https://guide.esciencecenter.nl/#/)
+- [Software Assessment Guidelines of the Earth Science Information Partners](https://esipfed.github.io/Software-Assessment-Guidelines/)
+- [Software Guidelines of the IPOL Journal](https://tools.ipol.im/wiki/ref/software_guidelines/)
+- [Software Quality Guidelines of CLARIAH](https://github.com/CLARIAH/software-quality-guidelines)
 
-### 2021
-- [SORSE](https://sorse.github.io/)
-- [SeptembRSE 2021](https://septembrse.society-rse.org)
-- [NeSI - New Zealand Research Software Engineering Conference](https://www.rseconference.nz/programme-tabs1/#tabs|1)
+## Recommendations and HowTos for RSE policies and guidelines
+No policies, no guidelines, but advice on how to write these documents.
 
-### 2020
-- [deRSE20](https://de-rse.org/deRSE20/)
-- [Nordic-RSE conference 2020](https://nordic-rse.org/conference)
-- [RSECon2020](https://rsecon2020.society-rse.org/)
-- [SORSE](https://sorse.github.io/)
+- [Checklist to Support the Helmholtz Centers in Implementing Policies on Sustainable Research Software](https://doi.org/10.48440/os.helmholtz.038)
+- [Model Policy on Sustainable Software at the Helmholtz Centers](https://doi.org/10.48440/os.helmholtz.041)
+- [Positionspapier: Umgang mit Forschungssoftware an der Universität Stuttgart (german only)](https://elib.uni-stuttgart.de/bitstream/11682/11195/1/positionspapier.pdf)
+- [Recommendations for the Implementation of Guidelines and Policies on Research Software Management at the Helmholtz Centers](https://doi.org/10.48440/os.helmholtz.040)
 
-### 2019
-- [RSEConUK](https://rse.ac.uk/conf2019/)
-- [deRSE19](https://www.de-rse.org/en/conf2019/)
-- [NL-RSE19](https://nl-rse.org/events/NL-RSE19.html)
+## Open source policies and guidelines
+Open source software and research software share many characteristics. Since there is no list about open source policies and guidelines in the research field we choose to mention it here. Research software engineering can learn a lot from the open source movement - also regarding policy and guideline development.
 
-### 2018
-- [RSEConUK](https://rse.ac.uk/conf2018/)
-
-### 2017
-- [RSEConUK](https://rse.ac.uk/conf2017/)
-
-## RSE Literature
-Different collections of relevant RSE literature.
-
-- [Zotero Group RSE](https://www.zotero.org/groups/2295543):
-- [Zotero Group FAIR4RS](https://www.zotero.org/groups/2501020/fair4rs/items/6H833P3W/library):
-- [Zenodo Community Research Software](https://zenodo.org/communities/researchsoftwarestudies):
-- [Zenodo Community deRSE](https://zenodo.org/communities/de-rse/):
+- [ESA Open Source Policy](https://essr.esa.int/esa-open-source-policy)
+- [Hinweise zur Entwicklung von Open-Source-Software an der Universitätsbibliothek Leipzig](https://doi.org/10.5281/zenodo.6412930)
+- [Open Source Policy of Aalto Scientific Computing](https://scicomp.aalto.fi/aalto/opensource-policy/)
+- [Open Source Software Policy of UNT Libraries](https://library.unt.edu/policies/open-source-software/)
+- [(the struggle) Towards and open source policy](https://arxiv.org/abs/1911.00534v1)
 
 ## Contribute
 
