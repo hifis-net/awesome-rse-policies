@@ -7,6 +7,7 @@
 - [RSE policies](#rse-policies)
 - [RSE guidelines](#rse-guidelines)
 - [Recommendations and HowTos for RSE policies and guidelines](#recommendations-and-howtos-for-rse-policies-and-guidelines)
+- [Open source policies and guidelines](#open-source-policies-and-guidelines)
 
 ## RSE policies
 Collection of RSE policies, which are abstract and often formal rules for research software engineering.
