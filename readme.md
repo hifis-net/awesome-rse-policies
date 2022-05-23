@@ -36,6 +36,7 @@ No policies, no guidelines, but advice on how to write these documents.
 ## Open source policies and guidelines
 Open source software and research software share many characteristics. Since there is no list about open source policies and guidelines in the research field we choose to mention it here. Research software engineering can learn a lot from the open source movement - also regarding policy and guideline development.
 
+- [ASTRON Open Source Policy](https://doi.org/10.5281/zenodo.3479828)
 - [ESA Open Source Policy](https://essr.esa.int/esa-open-source-policy)
 - [Hinweise zur Entwicklung von Open-Source-Software an der Universitätsbibliothek Leipzig](https://doi.org/10.5281/zenodo.6412930)
 - [Open Source Policy of Aalto Scientific Computing](https://scicomp.aalto.fi/aalto/opensource-policy/)
