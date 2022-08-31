@@ -42,7 +42,7 @@ Open source software and research software share many characteristics. Since the
 - [Open Source Policy of Aalto Scientific Computing](https://scicomp.aalto.fi/aalto/opensource-policy/)
 - [Open Source Software Policy of UNT Libraries](https://library.unt.edu/policies/open-source-software/)
 - [(the struggle) Towards and open source policy](https://arxiv.org/abs/1911.00534v1)
-- [Booklet on the Usage of Open Source Software in the DLR](https://www.dlr.de/tm/PortalData/43/Resources/dokumente/tm_dokumente/OpenSource-Software_DLR_2022.pdf)
+- [Booklet on the Usage of Open Source Software in the DLR (ger)](https://www.dlr.de/tm/PortalData/43/Resources/dokumente/tm_dokumente/OpenSource-Software_DLR_2022.pdf)
 
 ## Contribute
 
