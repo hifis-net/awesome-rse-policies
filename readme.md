@@ -1,21 +1,28 @@
 # Awesome Research Software Engineering Policies and Guidelines [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated awesome list of Research Software Engineering (RSE) policies and guidelines. Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
+A curated awesome list of Research Software Engineering (RSE) policies and guidelines. Inspired by [these curated collections](https://github.com/sindresorhus/awesome). Here we collect information about RSE policies and guidelines and advice about how to write and enact them. We also take a look at open source policies and guidelines.
 
+**About//** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Contributing](contributing.md)&nbsp;&nbsp;&nbsp;
+[HIFIS](https://hifis.net)&nbsp;&nbsp;&nbsp;
+[Awesome](https://github.com/sindresorhus/awesome)
+
+**Sub lists//**&nbsp;&nbsp;&nbsp;
+[Educational Resources](https://github.com/hifis-net/awesome-rse-education)&nbsp;&nbsp;&nbsp;
+[Communities](https://github.com/hifis-net/awesome-rse-communities)&nbsp;&nbsp;&nbsp;
+[FAIR](https://github.com/hifis-net/awesome-rse-fair)&nbsp;&nbsp;&nbsp;
+[Policies & Guidelines](https://github.com/hifis-net/awesome-rse-policies)&nbsp;&nbsp;&nbsp;
+[Science](https://github.com/hifis-net/awesome-rse-science)
 
 ## Contents
-- [RSE policies](#rse-policies)
-- [RSE guidelines](#rse-guidelines)
-- [Recommendations and HowTos for RSE policies and guidelines](#recommendations-and-howtos-for-rse-policies-and-guidelines)
+- [Guidelines](#guidelines)
+- [Policies](#policies)
 - [Open source policies and guidelines](#open-source-policies-and-guidelines)
+- [Recommendations and HowTos for RSE policies and guidelines](#recommendations-and-howtos-for-rse-policies-and-guidelines)
+- [Related Lists](#related-lists)
+- [Contribute](#contribute)
 
-## RSE policies
-Collection of RSE policies, which are abstract and often formal rules for research software engineering.
-
-- [Caltech Copyright and Software Policy](https://innovation.caltech.edu/patents-licensing/policies/caltech-copyright-and-software-policy)
-- [TU Delft Research Software Policy](https://doi.org/10.5281/zenodo.4629661)
-
-## RSE guidelines
+## Guidelines
 Collection of RSE guidelines containing recommendations and best practices for research software engineering in specific situations.
 
 - [Guide and checklists of the DLR Software Engineering Initiative](https://rse.dlr.de/01_guidelines.html)
@@ -24,6 +31,12 @@ Collection of RSE guidelines containing recommendations and best practices for r
 - [Software Assessment Guidelines of the Earth Science Information Partners](https://esipfed.github.io/Software-Assessment-Guidelines/)
 - [Software Guidelines of the IPOL Journal](https://tools.ipol.im/wiki/ref/software_guidelines/)
 - [Software Quality Guidelines of CLARIAH](https://github.com/CLARIAH/software-quality-guidelines)
+
+## Policies
+Collection of RSE policies, which are abstract and often formal rules for research software engineering.
+
+- [Caltech Copyright and Software Policy](https://innovation.caltech.edu/patents-licensing/policies/caltech-copyright-and-software-policy)
+- [TU Delft Research Software Policy](https://doi.org/10.5281/zenodo.4629661)
 
 ## Recommendations and HowTos for RSE policies and guidelines
 No policies, no guidelines, but advice on how to write these documents.
@@ -43,6 +56,8 @@ Open source software and research software share many characteristics. Since the
 - [Open Source Policy of Aalto Scientific Computing](https://scicomp.aalto.fi/aalto/opensource-policy/)
 - [Open Source Software Policy of UNT Libraries](https://library.unt.edu/policies/open-source-software/)
 - [(the struggle) Towards and open source policy](https://arxiv.org/abs/1911.00534v1)
+
+## Related Lists
 
 ## Contribute
 
