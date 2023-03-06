@@ -37,6 +37,7 @@ Collection of RSE guidelines containing recommendations and best practices for r
 Collection of RSE policies, which are abstract and often formal rules for research software engineering.
 
 - [Caltech Copyright and Software Policy](https://innovation.caltech.edu/patents-licensing/policies/caltech-copyright-and-software-policy)
+- [Software Licensing and Copyright Policy for Research Software CODE @ MPI-M](https://mpimet.mpg.de/fileadmin/staff/budichreinhard/MPI-M-SW-Policy.pdf)
 - [TU Delft Research Software Policy](https://doi.org/10.5281/zenodo.4629661)
 
 ## Recommendations and HowTos for RSE policies and guidelines
