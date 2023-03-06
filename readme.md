@@ -1,3 +1,4 @@
+<!--lint disable double-link-->
 # Awesome Research Software Engineering Policies and Guidelines [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated awesome list of Research Software Engineering (RSE) policies and guidelines. Inspired by [these curated collections](https://github.com/sindresorhus/awesome). Here we collect information about RSE policies and guidelines and advice about how to write and enact them. We also take a look at open source policies and guidelines.
@@ -17,8 +18,8 @@ A curated awesome list of Research Software Engineering (RSE) policies and guide
 ## Contents
 - [Guidelines](#guidelines)
 - [Policies](#policies)
-- [Open source policies and guidelines](#open-source-policies-and-guidelines)
 - [Recommendations and HowTos for RSE policies and guidelines](#recommendations-and-howtos-for-rse-policies-and-guidelines)
+- [Open source policies and guidelines](#open-source-policies-and-guidelines)
 - [Related Lists](#related-lists)
 - [Contribute](#contribute)
 
