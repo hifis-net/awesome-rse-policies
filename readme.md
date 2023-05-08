@@ -27,6 +27,7 @@ A curated awesome list of Research Software Engineering (RSE) policies and guide
 Collection of RSE guidelines containing recommendations and best practices for research software engineering in specific situations.
 
 - [Guide and checklists of the DLR Software Engineering Initiative](https://rse.dlr.de/01_guidelines.html)
+- [Guidelines and checklists of Forschungszentrum Jülich GmbH](http://hdl.handle.net/2128/33259)
 - [Guides and checklists of the Software Sustainability Institute](https://www.software.ac.uk/guides)
 - [Guides and checklists of the Netherlands eScience Center](https://guide.esciencecenter.nl/#/)
 - [Software Assessment Guidelines of the Earth Science Information Partners](https://esipfed.github.io/Software-Assessment-Guidelines/)
