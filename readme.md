@@ -56,7 +56,7 @@ Open source software and research software share many characteristics. Since the
 - [ASTRON Open Source Policy](https://doi.org/10.5281/zenodo.3479828)
 - [ESA Open Source Policy](https://essr.esa.int/esa-open-source-policy)
 - [Hinweise zur Entwicklung von Open-Source-Software an der Universitätsbibliothek Leipzig](https://doi.org/10.5281/zenodo.6412930)
-- [Nutzung von Open-Source-Software im DLR]([https://www.dlr.de/tm/PortalData/43/Resources/dokumente/tm_dokumente/OpenSource-Software_DLR_2022.pdf](https://www.dlr.de/de/medien/publikationen/broschueren/opensource-software_dlr_2022.pdf))
+- [Nutzung von Open-Source-Software im DLR](https://www.dlr.de/de/medien/publikationen/broschueren/opensource-software_dlr_2022.pdf)
 - [Open Source Policy of Aalto Scientific Computing](https://scicomp.aalto.fi/aalto/opensource-policy/)
 - [Open-Source Software Policy of the Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/open-source-software-policy)
 - [Open Source Software Policy of UNT Libraries](https://library.unt.edu/policies/open-source-software/)
