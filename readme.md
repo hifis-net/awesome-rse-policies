@@ -40,6 +40,7 @@ Collection of RSE policies, which are abstract and often formal rules for resear
 - [Caltech Copyright and Software Policy](https://innovation.caltech.edu/patents-licensing/policies/caltech-copyright-and-software-policy)
 - [Software Licensing and Copyright Policy for Research Software CODE @ MPI-M Max Planck Institute for Meteorology](https://mpimet.mpg.de/fileadmin/02_Forschung/08_Gute_wissenschaftliche_Praxis/MPI-M-SW-Policy.pdf)
 - [TU Delft Research Software Policy](https://doi.org/10.5281/zenodo.4629661)
+- [University software policy of the University of Cambridge](https://help.uis.cam.ac.uk/policies/terms)
 
 ## Recommendations and HowTos for RSE policies and guidelines
 No policies, no guidelines, but advice on how to write these documents.
@@ -57,8 +58,9 @@ Open source software and research software share many characteristics. Since the
 - [Hinweise zur Entwicklung von Open-Source-Software an der Universitätsbibliothek Leipzig](https://doi.org/10.5281/zenodo.6412930)
 - [Nutzung von Open-Source-Software im DLR]([https://www.dlr.de/tm/PortalData/43/Resources/dokumente/tm_dokumente/OpenSource-Software_DLR_2022.pdf](https://www.dlr.de/de/medien/publikationen/broschueren/opensource-software_dlr_2022.pdf))
 - [Open Source Policy of Aalto Scientific Computing](https://scicomp.aalto.fi/aalto/opensource-policy/)
+- [Open-Source Software Policy of the Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/open-source-software-policy)
 - [Open Source Software Policy of UNT Libraries](https://library.unt.edu/policies/open-source-software/)
-- [(the struggle) Towards and open source policy](https://arxiv.org/abs/1911.00534v1)
+- [(the struggle) Towards an open source policy](https://arxiv.org/abs/1911.00534v1)
 
 ## Related Lists
 
