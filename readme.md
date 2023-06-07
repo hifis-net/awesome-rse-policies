@@ -33,6 +33,7 @@ Collection of RSE guidelines containing recommendations and best practices for r
 - [Software Assessment Guidelines of the Earth Science Information Partners](https://esipfed.github.io/Software-Assessment-Guidelines/)
 - [Software Guidelines of the IPOL Journal](https://tools.ipol.im/wiki/ref/software_guidelines/)
 - [Software Quality Guidelines of CLARIAH](https://github.com/CLARIAH/software-quality-guidelines)
+- [Practical guide to Software Management Plans](https://doi.org/10.5281/zenodo.7038280)
 
 ## Policies
 Collection of RSE policies, which are abstract and often formal rules for research software engineering.
