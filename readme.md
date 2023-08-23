@@ -41,7 +41,7 @@ Collection of RSE policies, which are abstract and often formal rules for resear
 
 - [Caltech Copyright and Software Policy](https://innovation.caltech.edu/patents-licensing/policies/caltech-copyright-and-software-policy)
 - [Richtlinie zur Entwicklung und zum Umgang mit Forschungssoftware am AWI](https://hdl.handle.net/10013/epic.2f29dcaa-a387-45fe-a9b2-67b2854f6a41)
-- [Policy an Use and Licensing of Research Software of GFZ Potsdam](https://www.gfz-potsdam.de/fileadmin/gfz/zentrum/technologietransfer/pdf/GFZ_Software-Policy-v.1.1.pdf)
+- [Policy on Use and Licensing of Research Software of GFZ Potsdam](https://www.gfz-potsdam.de/fileadmin/gfz/zentrum/technologietransfer/pdf/GFZ_Software-Policy-v.1.1.pdf)
 - [Software Licensing and Copyright Policy for Research Software CODE @ MPI-M Max Planck Institute for Meteorology](https://mpimet.mpg.de/fileadmin/02_Forschung/08_Gute_wissenschaftliche_Praxis/MPI-M-SW-Policy.pdf)
 - [TU Delft Research Software Policy](https://doi.org/10.5281/zenodo.4629661)
 - [University software policy of the University of Cambridge](https://help.uis.cam.ac.uk/policies/terms)
