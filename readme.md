@@ -28,6 +28,7 @@ Collection of RSE guidelines containing recommendations and best practices for r
 
 - [Guide and checklists of the DLR Software Engineering Initiative](https://rse.dlr.de/01_guidelines.html)
 - [Guidelines and checklists of Forschungszentrum Jülich GmbH](http://hdl.handle.net/2128/33259)
+- [Guidelines on research software licensing and dissimination of GFZ Potsdam](https://www.gfz-potsdam.de/fileadmin/gfz/zentrum/technologietransfer/pdf/GFZ_Software-Guidelines-v.2.0.pdf)
 - [Guides and checklists of the Software Sustainability Institute](https://www.software.ac.uk/guides)
 - [Guides and checklists of the Netherlands eScience Center](https://guide.esciencecenter.nl/#/)
 - [Software Assessment Guidelines of the Earth Science Information Partners](https://esipfed.github.io/Software-Assessment-Guidelines/)
@@ -40,6 +41,7 @@ Collection of RSE policies, which are abstract and often formal rules for resear
 
 - [Caltech Copyright and Software Policy](https://innovation.caltech.edu/patents-licensing/policies/caltech-copyright-and-software-policy)
 - [Richtlinie zur Entwicklung und zum Umgang mit Forschungssoftware am AWI](https://hdl.handle.net/10013/epic.2f29dcaa-a387-45fe-a9b2-67b2854f6a41)
+- [Policy on Use and Licensing of Research Software of GFZ Potsdam](https://www.gfz-potsdam.de/fileadmin/gfz/zentrum/technologietransfer/pdf/GFZ_Software-Policy-v.1.1.pdf)
 - [Software Licensing and Copyright Policy for Research Software CODE @ MPI-M Max Planck Institute for Meteorology](https://mpimet.mpg.de/fileadmin/02_Forschung/08_Gute_wissenschaftliche_Praxis/MPI-M-SW-Policy.pdf)
 - [TU Delft Research Software Policy](https://doi.org/10.5281/zenodo.4629661)
 - [University software policy of the University of Cambridge](https://help.uis.cam.ac.uk/policies/terms)
