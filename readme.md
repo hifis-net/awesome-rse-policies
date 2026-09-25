@@ -35,6 +35,7 @@ Collection of RSE guidelines containing recommendations and best practices for r
 - [Software Guidelines of the IPOL Journal](https://tools.ipol.im/wiki/ref/software_guidelines/)
 - [Software Quality Guidelines of CLARIAH](https://github.com/CLARIAH/software-quality-guidelines)
 - [Practical guide to Software Management Plans](https://doi.org/10.5281/zenodo.7038280)
+- [Guidelines for good scientific practice in RSE](https://gwp-rse-ff130b.pages.gwdg.de/en/)
 
 ## Policies
 Collection of RSE policies, which are abstract and often formal rules for research software engineering.
@@ -53,7 +54,6 @@ No policies, no guidelines, but advice on how to write these documents.
 - [Model Policy on Sustainable Software at the Helmholtz Centers](https://doi.org/10.48440/os.helmholtz.041)
 - [Positionspapier: Umgang mit Forschungssoftware an der Universität Stuttgart (german only)](https://elib.uni-stuttgart.de/bitstream/11682/11195/1/positionspapier.pdf)
 - [Recommendations for the Implementation of Guidelines and Policies on Research Software Management at the Helmholtz Centers](https://doi.org/10.48440/os.helmholtz.040)
-- [GI- und DE-RSE Muster-Leitlinie zur effizienten Entwicklung von Forschungssoftware](https://doi.org/10.18420/2025-gi_de-rse)
 
 ## Open source policies and guidelines
 Open source software and research software share many characteristics. Since there is no list about open source policies and guidelines in the research field we choose to mention it here. Research software engineering can learn a lot from the open source movement - also regarding policy and guideline development.
